@@ -1,10 +1,10 @@
 {
-  "name": "backend-soundcloud-hoidanit",
+  "name": "backend-soundcloud",
   "version": "1.0.0",
-  "description": "https://hoidanit.com.vn/",
-  "author": "Hỏi Dân IT",
+  "description": "",
+  "author": "",
   "private": true,
-  "license": "LICENSED By Hỏi Dân IT",
+  "license": "",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
